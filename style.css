@@ -3,7 +3,7 @@ html{
 }
 
 body{
-  background-image:url('images/RidBoRyi9.png'),url('images/RidBoRyi9.png'),linear-gradient(to bottom, rgba(102,182,252,1) 0%, rgba(178,225,255,1) 75%, rgba(241,231,103,1) 80%, rgba(254,182,69,1) 100%);
+  background-image:url('images/RidBoRyi9.png'),url('images/RidBoRyi9.png'),linear-gradient(to bottom, rgba(102,182,252,1) 0%, rgba(178,225,255,1) 75%, rgba(241,231,103,1) 80%, #9D3D01 100%);
   background-size:20%, 20%, 100%;
   background-position:20% 90%, 80% 90%;
   background-repeat:no-repeat, no-repeat, repeat;
